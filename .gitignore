@@ -1,4 +1,5 @@
-# List of files that should not be pushed into the GitHub repository
+# List of files/folders that should not be pushed into this repo
 
+.DS_Store
 text.pdf
 report/
