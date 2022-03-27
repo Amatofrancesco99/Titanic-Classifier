@@ -1,7 +1,7 @@
 # Titanic-Classifier
 ![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)<br>
-![](https://komarev.com/ghpvc/?username=Titanic-Classifier&color=green&style=for-the-badge&label=PAGE+VIEWS)
+![](https://komarev.com/ghpvc/?username=TitanicClassifier&color=green&style=for-the-badge&label=PAGE+VIEWS)
 
 ## Main Goal
 A binary classifier to predict whether a person would have survived, or not, to the Titanic’s disaster.
