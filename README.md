@@ -16,7 +16,7 @@ aboard; passenger fare.
 Finally, is also known whether the person survived or not (target variable).
 
 ## Prediction
-Are you interested on knowing which would have had your probability of surviving? 
+Are you interested in knowing which would have had your probability of surviving? 
 <br>
 Change the `my_info` values into the [analysis.py](./scripts/analysis.py) file, then run the script.
 
