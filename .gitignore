@@ -1,0 +1,4 @@
+# List of files that should not be pushed into the GitHub repository
+
+text.pdf
+report/
